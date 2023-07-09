@@ -1,9 +1,9 @@
 # TESTEPYSPARK-Confitec
  Teste proficiente para a vaga de Engenheiro de Dados
 
-# Configuração das Credenciais da AWS
+# Configuração de Ambiente
 
-Para enviar o arquivo CSV para o Amazon S3, é preciso configurar corretamente as credenciais da AWS.
+Para enviar o arquivo CSV para o Amazon S3, é preciso configurar corretamente as credenciais da AWS. E para executar o código é necessário instalar suas dependências.
 
 ## 1. Configuração das Credenciais da AWS
 
