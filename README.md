@@ -20,3 +20,11 @@ Após obter as credenciais da AWS, você deve criar um arquivo chamado `credenti
 access_key_id = "sua_access_key_id"
 secret_access_key = "sua_secret_access_key"
 region_name = "sua_região_da_aws"
+```
+## 3. Arquivo `requirements.txt`
+
+Para executar este código, você precisará instalar algumas bibliotecas Python. Execute o pip install com o arquivo `requirements.txt`:
+
+```
+pip install -r requirements.txt
+```
