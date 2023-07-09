@@ -151,5 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-pyspark_test/output
-pyspark_test/OriginaisNetflix - Python.parquet
+.pyspark_test/output
+.pyspark_test/OriginaisNetflix - Python.parquet
